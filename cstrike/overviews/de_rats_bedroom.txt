@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	2.31
+	ORIGIN	-303.00 	458.75	-569.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_rats_bedroom.tga"
+	HEIGHT	-569.00
+}
